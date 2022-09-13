@@ -3,8 +3,6 @@
 # Arturas TY
 I'm Arturas (*or just Art*) from London, UK. I'm a Front-End Dev currently working as part of the Localisation Team for one of the leading top tech companies in the world.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on: website for a burger takeaway restaurant
 - 🏫 I’m currently expanding my knowledge on: React and Redux
 - 📫 How to reach me: E-mail or WhatsApp
