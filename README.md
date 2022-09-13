@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**arturasTY/arturasTY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![git_banner](https://user-images.githubusercontent.com/30295076/189889778-8b409aec-efd1-4257-a68e-73a43bf20d31.jpg)
 
 Here are some ideas to get you started:
 
