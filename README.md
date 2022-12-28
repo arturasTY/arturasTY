@@ -10,7 +10,7 @@ I'm Arturas (or just Art). I'm a Front-End Dev currently working as part of the 
 
 * 🌍  I'm based in London, UK
 * ✉️  You can contact me via: **E-mail or WhatsApp**
-* 🚀  I'm currently working on [a website for a burger takeaway restaurant](http://myapp.com)
+* 🚀  I'm currently working on [a website for a burger takeaway restaurant](#)
 * 🧠  I'm learning everything React & JavaScript
 
 ### Skills
