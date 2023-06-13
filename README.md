@@ -8,7 +8,7 @@ Front-End Developer
 
 I'm Arturas (or just Art). I'm a Front-End Dev currently working as part of the Localisation Team for one of the leading tech companies in the world.
 
-* 🌍  I'm based in London, UK
+* 🌍  I'm based in Kent, UK
 * 🖥️  See my portfolio at [Coming Soon](#)
 * ✉️  You can contact me via: E-mail or WhatsApp
 * 🚀  I'm currently working on [a website for a burger takeaway restaurant](#)
