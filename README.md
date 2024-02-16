@@ -16,4 +16,4 @@ I'm Arturas (or just Art). I'm a Front-End Dev currently working as part of the 
 
 ### Skills
 
-[![](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,sass,styledcomponents,mongodb,vscode,ps,figma)]()
+[![](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,sass,styledcomponents,mongodb,vite,github,vscode,ps,figma)]()
