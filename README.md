@@ -1,4 +1,4 @@
-![git_banner](https://user-images.githubusercontent.com/30295076/189889778-8b409aec-efd1-4257-a68e-73a43bf20d31.jpg)
+![git_banner](https://github.com/arturasTY/arturasTY/assets/30295076/baa6388e-369e-48e9-a50e-357cdcc37a6e)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arturas
 ==================================================================================================================================
